@@ -1,7 +1,7 @@
 # ocservBook
 [![GNS3](https://img.shields.io/badge/Platform-GNS3-orange?style=for-the-badge)](https://www.gns3.com/)
 [![Downloads](https://img.shields.io/badge/Downloads-500+-green?style=for-the-badge)](https://es.ptah57.keenetic.pro/)
-версия 0.01
+версия 1.0 (с) 2026
 
  Руководства , инструкции и компиляции из разных источников
   для развертывания и управления сервером Open Connect на
